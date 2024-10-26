@@ -16,8 +16,6 @@ Website Features:
 **NOTE:** Akaru is easy to deploy, however it should be noted that you can't add users as this is only limited to code owners/admins
 - First install packages by doing `npm install` or `pnpm install`.
 - Then do `npm start` or `pnpm start`, this will open a browser and start the server.
-- When logging in you can use the account `test@email.com` with the password `test123`.
-    > This is one of the test accounts that we have.
 
 # Contributors 
 | Roles | Names |Links |
